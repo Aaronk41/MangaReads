@@ -1,0 +1,2 @@
+# MangaReads
+Manga information
